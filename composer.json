@@ -1,0 +1,15 @@
+{
+    "name": "free-abrams/crontab-command",
+    "description": "crontab and log",
+    "type": "library",
+    "require": {
+        "dragonmantank/cron-expression": "^3.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "freeAbrams",
+            "email": "sa130494625@qq.com"
+        }
+    ]
+}
